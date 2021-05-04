@@ -10,10 +10,10 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>Use only in MCube[Movies]:)</i>
 
 
-<b>Basic Commands;</b>
+<b>Admin Commands;</b>
 
 /start - Check if I'm alive!
 /help - Command help
